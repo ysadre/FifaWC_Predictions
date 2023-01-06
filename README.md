@@ -11,8 +11,5 @@ My analysis includes a thorough exploration of the data, including statistical a
 ### Classification Model
 Using the insights gained from my analysis, I developed a classification model to predict the winners of each game until the final to determine the overall winner of the World Cup. The model was trained on a subset of the data and tested on the remaining data to ensure its accuracy. The model was able to accurately predict Argentina as the winner of the World Cup.
 
-### Usage
-To use my classification model, follow these steps:
-
 ### Conclusion
 I hope that my analysis and classification model will provide valuable insights and predictions for the 2022 World Cup. Good luck to all the teams competing in the tournament!
