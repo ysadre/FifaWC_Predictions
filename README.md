@@ -1,4 +1,4 @@
-# AI World Cup Predictor: Using Machine Learning to Forecast the Outcome of the Biggest Soccer Tournament
+# AI World Cup Predictor: using ML to Forecast the Outcome of the biggest soccer tournament
 Welcome to my Github project that aims to provide a comprehensive analysis of the 2022 World Cup, along with a classification model to predict the winners of each game until the final to determine the overall winner of the tournament. My model accurately predicted Argentina as the winner of the World Cup.
 
 ### Data
